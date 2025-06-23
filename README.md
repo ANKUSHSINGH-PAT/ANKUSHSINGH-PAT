@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Youtube Summarization_LLM](https://github.com/ANKUSHSINGH-PAT/Youtube_Summarization)
+- 🔭 I’m currently working on Bilding End to End project for MLOPS )
 
 - 🌱 I’m currently learning **LLM, AI, ML-Ops ,DSA & System Design**
 
